@@ -15,8 +15,4 @@ public class Principal {
     public void dos(){
         System.out.println("DOS");
     }
-    // Método 3
-    public void tres(){
-        System.out.println("TRES");
-    }
 }
