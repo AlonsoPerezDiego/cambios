@@ -15,4 +15,9 @@ public class Principal {
     public void dos(){
         System.out.println("DOS");
     }
+    // el TRE lo borré realizando un revert
+    // Método 4
+    public void cuatro(){
+        System.out.println("CUATRO");
+    }
 }
