@@ -11,4 +11,8 @@ public class Principal {
     public void uno(){
         System.out.println("UNO");
     }
+    // Método 2
+    public void dos(){
+        System.out.println("DOS");
+    }
 }
