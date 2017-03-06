@@ -32,7 +32,10 @@ public class Principal {
         public void dos(){
         System.out.println("DOS");
     }
-    // el TRES lo borré realizando un revert
+    // Añadido metodo 3
+        public void tres(){
+            System.out.println("TRES");
+        }
     // Método 4
 
     /**
